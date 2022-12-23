@@ -1,0 +1,15 @@
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\bin\Debug\net7.0\hw1.exe
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\bin\Debug\net7.0\hw1.deps.json
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\bin\Debug\net7.0\hw1.runtimeconfig.json
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\bin\Debug\net7.0\hw1.dll
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\bin\Debug\net7.0\hw1.pdb
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.csproj.AssemblyReference.cache
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.AssemblyInfoInputs.cache
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.AssemblyInfo.cs
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.csproj.CoreCompileInputs.cache
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.dll
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\refint\hw1.dll
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.pdb
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\hw1.genruntimeconfig.cache
+C:\Users\katux\Desktop\GB обучение\дом рекурсия\hw1\obj\Debug\net7.0\ref\hw1.dll
